@@ -1,4 +1,4 @@
-# Game-Of-Colors
+# GAME-of-COLORS
 This is a game to check how much strong are you mentally as well as check your concentration at the same time.
 After clicking Enter your time start to predict the color.
 This game confueses in what is written and what is the color.
